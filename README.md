@@ -12,4 +12,4 @@ Instruções para execução do projeto:
 
 #### Execução:
 
-`yarn dev ou npm run dev`
+`yarn start ou npm run start`
