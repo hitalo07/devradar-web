@@ -2,7 +2,7 @@
 
 Aplicação desenvolvida durante a 10 ª semana OmniStack da @Rocketseat.
 
-A aplicação foi desenvolvida com ReactJS utilizando o pacote `axios` para realizar as chamadas http.
+A aplicação foi desenvolvida com ReactJS utilizando o pacote axios para realizar as chamadas http.
 
 Instruções para execução do projeto:
 
